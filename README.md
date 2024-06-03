@@ -1,4 +1,6 @@
 # Memory-Chips-Designing
+RAM:
+
 RAM is a type of volatile memory used for temporary data storage that requires read and write capabilities. In Verilog, RAM can be designed using behavioral or structural modeling. 
 Here's an overview of the process:
 
@@ -18,6 +20,8 @@ We Used Verilog constructs like always blocks to describe the read and write ope
 We also Used a register array to model the memory storage.
 
 So these are basic steps of designing of SRAM Array.
+
+ROM:
 
 ROM is a type of non-volatile memory used to store fixed data that does not change after programming. 
 Designing ROM in Verilog involves specifying the memory content during design time.
