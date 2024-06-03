@@ -12,6 +12,8 @@ We have defined type as Static RAM Array.
 Module Definition:
 
 Create a Verilog module specifying input and output ports, including address lines, data lines, control signals (read/write enable), and clock.
+![BB](https://github.com/monil667/Memory-Project/assets/114842275/302ebc3a-47b8-46b0-9da3-487d0c69eaf8)
+
 
 Behavioral Modeling:
 
