@@ -8,6 +8,7 @@ We have defined the size of the RAM (256kb).
 
 We have defined type as Static RAM Array.
 
+
 Module Definition:
 
 Create a Verilog module specifying input and output ports, including address lines, data lines, control signals (read/write enable), and clock.
