@@ -18,3 +18,12 @@ We Used Verilog constructs like always blocks to describe the read and write ope
 We also Used a register array to model the memory storage.
 
 So these are basic steps of designing of SRAM Array.
+
+ROM is a type of non-volatile memory used to store fixed data that does not change after programming. 
+Designing ROM in Verilog involves specifying the memory content during design time.
+Here's an overview of the process:
+
+1. Specification:
+We have defined the ROM as 1KB Dual core Read Only Memory.
+We had predefined data sequence to store into ROM initially.
+
