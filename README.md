@@ -31,3 +31,8 @@ Here's an overview of the process:
 We have defined the ROM as 1KB Dual core Read Only Memory.
 We had predefined data sequence to store into ROM initially.
 
+2. Module Definition:
+We Created a Verilog module with input ports for address lines and output ports for data lines.
+
+
+
