@@ -14,6 +14,7 @@ Module Definition:
 Create a Verilog module specifying input and output ports, including address lines, data lines, control signals (read/write enable), and clock.
 
 Behavioral Modeling:
+
 Use Verilog constructs like always blocks to describe the read and write operations.
 Use a register array to model the memory storage.
 Implement synchronous or asynchronous read/write operations based on the design requirements.
