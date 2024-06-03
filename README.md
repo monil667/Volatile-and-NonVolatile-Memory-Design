@@ -34,5 +34,11 @@ We had predefined data sequence to store into ROM initially.
 2. Module Definition:
 We Created a Verilog module with input ports for address lines and output ports for data lines.
 
+![DUAL_ROM_BB](https://github.com/monil667/Memory-Chips-Designing/assets/114842275/606ef1b4-5c7b-4f26-b195-0341bf6c3d65)
+
+3. Initialization:
+We Used initial blocks to read from a file using $readmemh or $readmemb to initialize the ROM content
+and then Store the fixed data in a register array.
+
 
 
