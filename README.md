@@ -1,6 +1,6 @@
 # Memory-Project
 RAM is a type of volatile memory used for temporary data storage that requires read and write capabilities. In Verilog, RAM can be designed using behavioral or structural modeling. 
-Here's an overview of the process
+Here's an overview of the process:
 
 1. Specification:
 We have defined the size of the RAM as 256kb, also 
