@@ -40,5 +40,9 @@ We Created a Verilog module with input ports for address lines and output ports 
 We Used initial blocks to read from a file using $readmemh or $readmemb to initialize the ROM content
 and then Store the fixed data in a register array.
 
+TEST BENCH FILE:
+
+We Created testbenches to simulate the RAM and ROM modules
+and Apply various test vectors to verify read/write operations for RAM and correct data retrieval for ROM.
 
 
