@@ -3,7 +3,9 @@ RAM is a type of volatile memory used for temporary data storage that requires r
 Here's an overview of the process
 
 Specification:
+
 We had defined the size of the RAM (256kb).
+
 We had defined type as Static RAM Array.
 
 Module Definition:
