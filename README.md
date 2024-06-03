@@ -43,6 +43,6 @@ and then Store the fixed data in a register array.
 TEST BENCH FILE:
 
 We Created testbenches to simulate the RAM and ROM modules
-and Apply various test vectors to verify read/write operations for RAM and correct data retrieval for ROM.
+and apply various test vectors to verify read/write operations for RAM and correct data retrieval for ROM.
 
 
