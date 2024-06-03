@@ -1,4 +1,4 @@
-# Memory-Project
+# Memory-Chips-Designing
 RAM is a type of volatile memory used for temporary data storage that requires read and write capabilities. In Verilog, RAM can be designed using behavioral or structural modeling. 
 Here's an overview of the process:
 
