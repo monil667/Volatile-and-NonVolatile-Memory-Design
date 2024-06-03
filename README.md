@@ -17,4 +17,4 @@ We Created a Verilog module specifying input and output ports, including address
 We Used Verilog constructs like always blocks to describe the read and write operations.
 We also Used a register array to model the memory storage.
 
-So these are beasic steps of designing of SRAM Array.
+So these are basic steps of designing of SRAM Array.
